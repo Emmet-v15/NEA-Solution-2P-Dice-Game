@@ -1,0 +1,32 @@
+[
+    {
+        "username": "user123",
+        "password": "e6023b68c8eb207732e1d05ccd612cb9f4674bf1c2e4cfb77844526524f82a8677ad3d33be25911a32eed7574e5060d7ae7f08173d8660b4060d2a04b4bf7df5226765e2cc6f7ad96f0338ce4dc1427e866e41e60c0c01425e8e22b98ad7b1e9",
+        "score": 65
+    },
+    {
+        "username": "user234",
+        "password": "b1decadf7f388f9eb9b975469980bd4ea42250ba3277330f3e8f675dbb11ad04e0113d3c3e04a90182597a3ad9f4a4631616de5a7c93d27cc3257275bc6430ab2d9473e62bba9201cb534939c4f74a6fdfc1a9cd8b0ae1ad4861a2d531a8a34f",
+        "score": 50
+    },
+    {
+        "username": "user623",
+        "password": "e6023b68c8eb207732e1d05ccd612cb9f4674bf1c2e4cfb77844526524f82a8677ad3d33be25911a32eed7574e5060d7ae7f08173d8660b4060d2a04b4bf7df5226765e2cc6f7ad96f0338ce4dc1427e866e41e60c0c01425e8e22b98ad7b1e9",
+        "score": 35
+    },
+    {
+        "username": "user878",
+        "password": "b1decadf7f388f9eb9b975469980bd4ea42250ba3277330f3e8f675dbb11ad04e0113d3c3e04a90182597a3ad9f4a4631616de5a7c93d27cc3257275bc6430ab2d9473e62bba9201cb534939c4f74a6fdfc1a9cd8b0ae1ad4861a2d531a8a34f",
+        "score": 30
+    },
+    {
+        "username": "user512",
+        "password": "b1decadf7f388f9eb9b975469980bd4ea42250ba3277330f3e8f675dbb11ad04e0113d3c3e04a90182597a3ad9f4a4631616de5a7c93d27cc3257275bc6430ab2d9473e62bba9201cb534939c4f74a6fdfc1a9cd8b0ae1ad4861a2d531a8a34f",
+        "score": 20
+    },
+    {
+        "username": "user000",
+        "password": "e6023b68c8eb207732e1d05ccd612cb9f4674bf1c2e4cfb77844526524f82a8677ad3d33be25911a32eed7574e5060d7ae7f08173d8660b4060d2a04b4bf7df5226765e2cc6f7ad96f0338ce4dc1427e866e41e60c0c01425e8e22b98ad7b1e9",
+        "score": 15
+    }
+]
